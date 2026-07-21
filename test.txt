@@ -1,0 +1,11 @@
+Linux Commands Practice
+
+mkdir LinuxPractice
+cd LinuxPractice
+touch test.txt
+ls
+cp test.txt copy.txt
+mv copy.txt notes.txt
+rm notes.txt
+cd ..
+rmdir LinuxPractice
