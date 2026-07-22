@@ -1,0 +1,17 @@
+# Linux Day 3 - File Operations Commands
+
+touch notes.txt
+
+echo Linux is easy > notes.txt
+
+cat notes.txt
+
+echo Practice every day >> notes.txt
+
+head notes.txt
+
+tail notes.txt
+
+less notes.txt
+
+more notes.txt
