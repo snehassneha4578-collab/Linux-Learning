@@ -27,6 +27,4 @@ whereis bash
 - Finding the executable path of a command using `which`
 - Finding the binary and manual page locations using `whereis`
 
-## Author
 
-Sneha S
