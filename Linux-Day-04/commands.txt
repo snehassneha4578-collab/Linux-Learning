@@ -1,0 +1,6 @@
+touch notes.txt
+echo Linux is useful for VLSI > notes.txt
+find . -name notes.txt
+grep Linux notes.txt
+which bash
+whereis bash
