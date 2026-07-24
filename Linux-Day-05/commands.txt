@@ -1,0 +1,11 @@
+touch demo.txt
+
+ls -l
+
+chmod +x demo.txt
+
+ls -l
+
+chmod -w demo.txt
+
+ls -l
