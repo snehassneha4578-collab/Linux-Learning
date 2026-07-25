@@ -1,1 +1,5 @@
-
+whoami
+id
+groups
+touch linux.txt
+ls -l
