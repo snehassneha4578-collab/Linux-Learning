@@ -1,0 +1,13 @@
+mkdir LinuxRevision
+cd LinuxRevision
+touch notes.txt
+touch commands.txt
+echo "Linux is useful for VLSI" > notes.txt
+echo "Practice daily" >> notes.txt
+cat notes.txt
+cp notes.txt backup.txt
+mv backup.txt final_notes.txt
+grep Linux notes.txt
+ls -l
+chmod +x notes.txt
+whoami
