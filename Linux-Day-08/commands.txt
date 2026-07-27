@@ -1,1 +1,15 @@
-
+ps
+ps -e
+top
+q
+jobs
+sleep 60 &
+jobs
+fg
+sleep 60
+Ctrl + Z
+bg
+jobs
+ps
+kill <PID>
+jobs
