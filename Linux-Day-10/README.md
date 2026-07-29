@@ -79,7 +79,7 @@ Linux
 Example:
 
 ```markdown
-![Linux Day 10 Output](output.png)
+![Linux Day 10 Output](images/output.png)
 ```
 
 ---
