@@ -1,0 +1,7 @@
+touch variables.sh
+
+nano variables.sh
+
+chmod +x variables.sh
+
+./variables.sh
