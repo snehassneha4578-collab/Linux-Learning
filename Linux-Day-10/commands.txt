@@ -1,0 +1,15 @@
+Linux Day 10 – Environment Variables
+
+printenv
+
+echo $USER
+
+echo $HOME
+
+echo $SHELL
+
+echo $PATH
+
+export COURSE=Linux
+
+echo $COURSE
