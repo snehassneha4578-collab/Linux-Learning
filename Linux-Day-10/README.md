@@ -2,63 +2,31 @@
 
 ## 📚 Topics Covered
 
-* Environment Variables
-* USER Variable
-* HOME Variable
-* SHELL Variable
-* PATH Variable
-* Creating Environment Variables
-* Displaying Environment Variables
+- Environment Variables
+- USER Variable
+- HOME Variable
+- SHELL Variable
+- PATH Variable
+- Creating Environment Variables
+- Displaying Environment Variables
 
 ---
 
 ## 💻 Commands Practiced
 
-### Display all environment variables
-
 ```bash
 printenv
-```
-
-### Display the current user
-
-```bash
 echo $USER
-```
-
-### Display the home directory
-
-```bash
 echo $HOME
-```
-
-### Display the current shell
-
-```bash
 echo $SHELL
-```
-
-### Display the PATH variable
-
-```bash
 echo $PATH
-```
-
-### Create a new environment variable
-
-```bash
 export COURSE=Linux
-```
-
-### Display the new environment variable
-
-```bash
 echo $COURSE
 ```
 
 ---
 
-## 📝 My Output
+## 📝 Output
 
 ```text
 sneha@Sneha-PC:~$ echo $PATH
@@ -74,26 +42,20 @@ Linux
 
 ## 📸 Output Screenshot
 
-> Add your terminal screenshot here.
-
-Example:
-
-```markdown
-![Output](output.png)
-```
+![Output Screenshot](output.png)
 
 ---
 
 ## 🎯 What I Learned
 
-* Environment variables store system and user information.
-* `printenv` displays all environment variables.
-* `$USER` shows the logged-in username.
-* `$HOME` shows the home directory.
-* `$SHELL` shows the current shell.
-* `$PATH` contains directories where Linux searches for commands.
-* `export` creates an environment variable.
-* `echo` displays the value of an environment variable.
+- Environment variables store system and user information.
+- `printenv` displays all environment variables.
+- `$USER` shows the logged-in username.
+- `$HOME` shows the home directory.
+- `$SHELL` shows the current shell.
+- `$PATH` contains directories where Linux searches for commands.
+- `export` creates an environment variable.
+- `echo` displays the value of an environment variable.
 
 ---
 
