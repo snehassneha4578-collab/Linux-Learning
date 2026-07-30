@@ -1,4 +1,4 @@
-# Linux Master Course – Day 12: Bash Variables
+# Linux Master Course – Day 11: Bash Variables
 
 ## Commands
 
