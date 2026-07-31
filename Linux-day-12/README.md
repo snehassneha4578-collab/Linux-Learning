@@ -42,11 +42,8 @@ Hello Sneha
 
 ## Output Screenshot
 
-```markdown
-![Output](outputday12.png)
-```
+![Output](images/outputday12.png)
 
----
 
 ## Commands Used
 
