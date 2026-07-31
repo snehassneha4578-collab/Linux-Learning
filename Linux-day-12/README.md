@@ -42,7 +42,7 @@ Hello Sneha
 
 ## Output Screenshot
 
-![Output](images/outputday12.png)
+![Output](outputday12.png)
 
 
 ## Commands Used
